@@ -1,0 +1,5 @@
+admin,123,admin
+manager1,123,manager
+chef1,123,chef
+cust1,123,customer
+Anshu,123,manager

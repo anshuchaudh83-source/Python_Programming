@@ -1,0 +1,4 @@
+Burger,200
+Pizza,500large 
+Burger,600
+momo,130
